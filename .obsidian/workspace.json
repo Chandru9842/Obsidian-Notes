@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Topological Sort Algorithm.md",
+                "file": "Sql/Sql Interview/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topological Sort Algorithm"
-            }
-          },
-          {
-            "id": "641fa528040088ad",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "WhatsApp Image 2024-10-02 at 08.56.21_bda2451f.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "WhatsApp Image 2024-10-02 at 08.56.21_bda2451f"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "641fa528040088ad",
+  "active": "d23afeb0a6db9bfa",
   "lastOpenFiles": [
+    "Graph/Topological Sort Algorithm.md",
+    "Sql/Sql Interview/Untitled.md",
+    "Sql/Sql Interview",
+    "Sql/Untitled.base",
+    "WhatsApp Image 2024-10-02 at 08.56.21_bda2451f.jpg",
+    "Sql",
+    "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (3).webp",
+    "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (7).webp",
     "README.md",
     "Untitled.md",
     "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (9).webp",
@@ -218,29 +213,22 @@
     "Untitled 1.md",
     "Sql interview/Sql Interveiw/Untitled.md",
     "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (4).webp",
-    "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (3).webp",
     "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (19).webp",
     "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (18).webp",
     "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (17).webp",
     "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (16).webp",
-    "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (15).webp",
-    "Comment for full PDF 👇☠️Follow for more superb content @theautomationengineer 💎 automation q (14).webp",
     "Sql interview/Sql Interveiw",
     "Sql interview",
-    "Graph/Topological Sort Algorithm.md",
     "Certificate/9th.md",
     "New folder",
     "Untitled 1",
     "DP/PatternUntitled.md",
-    "Untitled",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.base",
-    "Untitled.base",
     "Graph/Bellman-Ford Algorithm.md",
-    "Graph",
     "Certificate/Postman Academy.md",
     "Certificate/Queenbug Intership certificate.md",
     "Welcome.md"
