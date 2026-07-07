@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1315ccec3f781b90",
+        "id": "d6ca401166f9649b",
         "type": "tabs",
         "children": [
           {
-            "id": "02c9340a199200e8",
+            "id": "d23afeb0a6db9bfa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,18 +192,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02c9340a199200e8",
+  "active": "cc9330032a980c98",
   "lastOpenFiles": [
+    "New folder",
+    "Untitled 1",
+    "DP/PatternUntitled.md",
+    "Untitled",
+    "CHANDRU M.jpg",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 3.base",
     "Untitled.base",
-    "CHANDRU M.jpg",
     "README.md",
     "Pasted image 20260706203747.png",
-    "DP/PatternUntitled.md",
     "Graph/Bellman-Ford Algorithm.md",
     "Graph",
     "Certificate/Postman Academy.md",
@@ -212,8 +216,6 @@
     "Certificate/Postman acdacemy",
     "Untitled/desktop.ini",
     "Certificate",
-    "Screenshot 2026-07-06 202816.png",
-    "DP",
-    "desktop.ini"
+    "Screenshot 2026-07-06 202816.png"
   ]
 }
