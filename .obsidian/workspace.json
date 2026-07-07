@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "d2ec64262cddbfb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2ab8e2872a4cce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43c479ec20d3f55a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DP/PatternUntitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PatternUntitled"
+            }
+          },
+          {
+            "id": "55a3e9f796d922b8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e4b2049f2209d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f923f49ee3d4e64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf13e5ff67d843d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b62a431c4fd43815",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cc9330032a980c98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63c5b938722a1ea9",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c0b7923cb9dc54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3acc63eba4f1b479",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Graph/Bellman-Ford Algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bellman-Ford Algorithm"
+            }
+          },
+          {
+            "id": "8e042f859b03cf5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Graph/Bellman-Ford Algorithm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bellman-Ford Algorithm"
+            }
+          },
+          {
+            "id": "a61c1723aeaddaaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6afc3451ae7e577",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1d62a24ee9c40b4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Graph/Bellman-Ford Algorithm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bellman-Ford Algorithm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cc9330032a980c98",
+  "lastOpenFiles": [
+    "DP/PatternUntitled.md",
+    "Graph/Bellman-Ford Algorithm.md",
+    "Graph",
+    "Certificate/Postman Academy.md",
+    "Untitled.md",
+    "Certificate/Queenbug Intership certificate.md",
+    "CHANDRU M.jpg",
+    "Pasted image 20260706203747.png",
+    "Welcome.md",
+    "Certificate/Postman acdacemy",
+    "Untitled/desktop.ini",
+    "Certificate",
+    "Untitled.base",
+    "Screenshot 2026-07-06 202816.png",
+    "DP",
+    "desktop.ini"
+  ]
+}
