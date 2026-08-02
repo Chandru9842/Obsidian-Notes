@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/TREE QN.md",
+                "file": "Os/Os quick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TREE QN"
+              "title": "Os quick"
             }
           }
         ]
@@ -198,10 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc9330032a980c98",
+  "active": "d23afeb0a6db9bfa",
   "lastOpenFiles": [
-    "hackthon/Untitled.md",
+    "Os/Os topic/Operating System Roadmap.md",
+    "Os/Os quick.md",
     "Tree/TREE QN.md",
+    "hackthon/Untitled.md",
     "Tree",
     "Node.js/Roadmap/node.js.md",
     "Untitled",
@@ -212,7 +214,6 @@
     "Oops/oops roadmap/OOP (Object-Oriented Programming).md",
     "Springboot/spring",
     "Springboot",
-    "Os/Os topic/Operating System Roadmap.md",
     "Oops/oops roadmap",
     "Oops",
     "DBMS/Sql/Sql Interview/Sql roadmap.md",
